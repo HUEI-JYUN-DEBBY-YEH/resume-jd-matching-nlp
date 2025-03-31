@@ -1,0 +1,101 @@
+﻿source_file,id,text_for_NLP,cluster
+cleaned_JD_Backend_Engineer.csv,0,"後端工程師 (金融科技)，負責設計與開發金融交易系統後端服務，確保高可用性與低延遲。，Python, Django, PostgreSQL, RESTful API, Git，資訊相關科系學士以上，2年以上後端開發經驗，有金融業系統開發經驗、具備 AWS 雲端服務操作經驗",2
+cleaned_JD_Backend_Engineer.csv,1,"資深後端工程師 (電商平台)，開發與維護大型電商平台後端系統，優化資料處理效能。，Java, Spring Boot, MySQL, Redis, Kafka，資訊相關科系學士以上，3年以上 Java 開發經驗，有高流量系統開發經驗、具備 Docker 使用經驗",2
+cleaned_JD_Backend_Engineer.csv,2,"後端工程師 (SaaS 產品)，協助開發多租戶架構的 SaaS 平台，實作 API 與使用者管理功能。，Node.js, Express, MongoDB, JWT, GitLab CI/CD，大專以上，具備 2 年以上 Node.js 實務經驗，熟悉 OAuth2 認證流程、有微服務架構經驗",2
+cleaned_JD_Backend_Engineer.csv,3,"後端工程師 (AI 產品)，建置支援機器學習模型的 API 與任務排程系統。，Python, FastAPI, Celery, PostgreSQL, Docker，碩士以上，具備資料處理與後端開發經驗，了解 MLOps、熟悉 Hugging Face Transformers",3
+cleaned_JD_Backend_Engineer.csv,4,"後端工程師 (新創社群平台)，協作開發高互動性的社群平台後端系統，並整合第三方登入服務。，Go, Gin, MySQL, Redis, Git，資訊或工程相關背景，1 年以上 Go 語言經驗，參與過社群或媒體平台開發、有 RESTful API 設計經驗",2
+cleaned_JD_Backend_Engineer.csv,5,"後端工程師 (IoT 應用)，設計與開發處理 IoT 裝置數據的資料處理服務與後端架構。，C#, .NET Core, MQTT, MSSQL, Git，大學以上，2 年以上 C# 開發經驗，熟悉物聯網通訊協定與邊緣運算架構",2
+cleaned_JD_Backend_Engineer.csv,6,"後端工程師 (醫療資訊系統)，協助開發與維護醫療院所後台系統與資料串接模組。，Java, Spring, Oracle DB, RESTful API, Git，醫工、資訊相關科系畢，3 年以上 Java 經驗，具 HL7/FHIR 應用經驗、醫療系統背景",2
+cleaned_JD_Backend_Engineer.csv,7,"後端工程師 (B2B 供應鏈平台)，開發供應鏈系統中的交易處理模組與資料介接邏輯。，PHP, Laravel, MySQL, RabbitMQ, Git，大學以上學歷，具 B2B 平台開發經驗者尤佳，了解 ERP 系統架構、具備前後端整合經驗",3
+cleaned_JD_Backend_Engineer.csv,8,"後端工程師 (教育科技平台)，開發線上學習平台的後端功能模組與課程資料串接機制。，Python, Flask, SQLite, REST API, Git，資訊相關背景，具備後端專案開發經驗，有教育平台建置經驗、熟悉內容管理系統",3
+cleaned_JD_Backend_Engineer.csv,9,"後端工程師 (數據分析平台)，負責數據平台的 ETL 流程與分析 API 建置。，Python, Airflow, PostgreSQL, Pandas, Docker，大學以上學歷，具 ETL 或資料工程經驗，具備資料視覺化工具整合經驗",3
+cleaned_JD_Backend_Engineer.csv,10,"後端工程師 (物流科技)，參與 物流科技 領域的核心系統後端設計與開發，處理資料流與系統整合需求。，Python, FastAPI, PostgreSQL, RESTful API, Git，資訊相關科系畢業，具備 2 年以上後端開發經驗，有 物流科技 領域開發經驗、具備微服務或 CI/CD 流程操作能力",2
+cleaned_JD_Backend_Engineer.csv,11,"後端工程師 (智慧製造)，參與 智慧製造 領域的核心系統後端設計與開發，處理資料流與系統整合需求。，Go, Spring Boot, MySQL, RESTful API, Git，資訊相關科系畢業，具備 2 年以上後端開發經驗，有 智慧製造 領域開發經驗、具備微服務或 CI/CD 流程操作能力",2
+cleaned_JD_Backend_Engineer.csv,12,"後端工程師 (法律科技)，參與 法律科技 領域的核心系統後端設計與開發，處理資料流與系統整合需求。，Java, Express, MongoDB, RESTful API, Git，資訊相關科系畢業，具備 2 年以上後端開發經驗，有 法律科技 領域開發經驗、具備微服務或 CI/CD 流程操作能力",2
+cleaned_JD_Backend_Engineer.csv,13,"後端工程師 (媒體影音)，參與 媒體影音 領域的核心系統後端設計與開發，處理資料流與系統整合需求。，Node.js, Gin, Oracle, RESTful API, Git，資訊相關科系畢業，具備 2 年以上後端開發經驗，有 媒體影音 領域開發經驗、具備微服務或 CI/CD 流程操作能力",2
+cleaned_JD_Backend_Engineer.csv,14,"後端工程師 (區塊鏈應用)，參與 區塊鏈應用 領域的核心系統後端設計與開發，處理資料流與系統整合需求。，C#, .NET Core, Redis, RESTful API, Git，資訊相關科系畢業，具備 2 年以上後端開發經驗，有 區塊鏈應用 領域開發經驗、具備微服務或 CI/CD 流程操作能力",2
+cleaned_JD_Backend_Engineer.csv,15,"後端工程師 (餐飲 SaaS)，參與 餐飲 SaaS 領域的核心系統後端設計與開發，處理資料流與系統整合需求。，Rust, Laravel, PostgreSQL, RESTful API, Git，資訊相關科系畢業，具備 2 年以上後端開發經驗，有 餐飲 SaaS 領域開發經驗、具備微服務或 CI/CD 流程操作能力",2
+cleaned_JD_Backend_Engineer.csv,16,"後端工程師 (智慧農業)，參與 智慧農業 領域的核心系統後端設計與開發，處理資料流與系統整合需求。，Python, FastAPI, MySQL, RESTful API, Git，資訊相關科系畢業，具備 2 年以上後端開發經驗，有 智慧農業 領域開發經驗、具備微服務或 CI/CD 流程操作能力",2
+cleaned_JD_Backend_Engineer.csv,17,"後端工程師 (資安平台)，參與 資安平台 領域的核心系統後端設計與開發，處理資料流與系統整合需求。，Go, Spring Boot, MongoDB, RESTful API, Git，資訊相關科系畢業，具備 2 年以上後端開發經驗，有 資安平台 領域開發經驗、具備微服務或 CI/CD 流程操作能力",2
+cleaned_JD_Backend_Engineer.csv,18,"後端工程師 (房地產科技)，參與 房地產科技 領域的核心系統後端設計與開發，處理資料流與系統整合需求。，Java, Express, Oracle, RESTful API, Git，資訊相關科系畢業，具備 2 年以上後端開發經驗，有 房地產科技 領域開發經驗、具備微服務或 CI/CD 流程操作能力",2
+cleaned_JD_Backend_Engineer.csv,19,"後端工程師 (人力資源科技)，參與 人力資源科技 領域的核心系統後端設計與開發，處理資料流與系統整合需求。，Node.js, Gin, Redis, RESTful API, Git，資訊相關科系畢業，具備 2 年以上後端開發經驗，有 人力資源科技 領域開發經驗、具備微服務或 CI/CD 流程操作能力",2
+cleaned_JD_Data_Analyst.csv,0,"資料分析師 (零售產業)，負責門市營運與銷售數據分析，提供策略建議與視覺化報表。，SQL, Excel, Tableau, Python, 統計分析，商管或統計相關科系，大學以上，具 2 年數據分析經驗，具 CRM 分析或 POS 數據處理經驗",0
+cleaned_JD_Data_Analyst.csv,1,"資深資料分析師 (金融業)，分析客戶行為與投資模式，協助行銷部門精準投放廣告。，SQL, Python, Power BI, R, Logistic Regression，財金或統計相關科系碩士，3 年以上金融資料分析經驗，具備 SAS 使用經驗、通過 FRM Level 1",0
+cleaned_JD_Data_Analyst.csv,2,"資料分析師 (電商平台)，分析用戶行為與轉換率，支援行銷與產品決策。，Google BigQuery, Python, GA4, Looker Studio, SQL，大學以上學歷，具 1 年以上數據平台操作經驗，熟悉 A/B test 設計與用戶分群",0
+cleaned_JD_Data_Analyst.csv,3,"資料分析師 (新創產業)，建立商業儀表板，追蹤 KPI，支援投資人報告與營運分析。，Python, Pandas, Metabase, SQL, Google Sheets，不限科系，大學以上學歷，需有實習或專案經驗，參與過創業團隊、有分析 SaaS 業績數據經驗",0
+cleaned_JD_Data_Analyst.csv,4,"資料分析師 (SaaS 產品)，追蹤訂閱數據、使用者留存與產品功能使用情形。，SQL, Python, Retention 分析, Tableau, ETL，統計、資管或數據相關學系畢業，熟悉產品分析指標如 DAU/WAU/MAU",0
+cleaned_JD_Data_Analyst.csv,5,"資料分析師 (行銷科技 MarTech)，整合客戶資料平台（CDP），分析用戶旅程與廣告成效。，SQL, Python, GA4, Tableau, Funnel Analysis，商管、資管或傳播背景，具 2 年以上數據經驗，有 Facebook/Google Ads 數據整合經驗",0
+cleaned_JD_Data_Analyst.csv,6,"資料分析師 (醫療健康科技)，分析病患資料與健康數據，提供醫療決策與政策建議。，R, SQL, 統計推論, Data Cleaning, Power BI，公衛、醫資或統計背景碩士佳，熟悉健保資料庫、ICD 編碼",0
+cleaned_JD_Data_Analyst.csv,7,"資料分析師 (物流科技)，建構物流績效指標，分析配送效率與運輸成本。，Python, SQL, Power BI, Data Modeling, Excel，工工、資管或統計科系，具備數據專案經驗，了解車隊管理或物流路線優化相關知識",3
+cleaned_JD_Data_Analyst.csv,8,"資料分析師 (媒體影音平台)，分析觀眾觀看行為與推薦系統結果，提升黏著度。，SQL, Python, A/B Testing, Tableau, Numpy，大學以上，具備 2 年以上影音數據分析經驗，了解推薦系統原理、有影片平台分析經驗",0
+cleaned_JD_Data_Analyst.csv,9,"資料分析師 (製造業智慧工廠)，分析生產流程與設備維運資料，優化產能與預測保養時間。，Python, SQL, 時間序列分析, Power BI, Excel，工業工程或製造背景，3 年以上經驗，熟悉 SCADA 或 MES 系統資料",0
+cleaned_JD_Data_Analyst.csv,10,"資料分析師 (房地產)，針對 房地產 領域進行 房價預測，建立分析報告與儀表板。，Python, R, 統計分析, 數據清理, 視覺化工具，大學以上學歷，具備資料處理與報表開發經驗，具備 房地產 領域經驗，熟悉相關商業邏輯",0
+cleaned_JD_Data_Analyst.csv,11,"資料分析師 (保險業)，針對 保險業 領域進行 保單分析，建立分析報告與儀表板。，R, SQL, 統計分析, 數據清理, 視覺化工具，大學以上學歷，具備資料處理與報表開發經驗，具備 保險業 領域經驗，熟悉相關商業邏輯",0
+cleaned_JD_Data_Analyst.csv,12,"資料分析師 (教育科技)，針對 教育科技 領域進行 學習成效追蹤，建立分析報告與儀表板。，SQL, Tableau, 統計分析, 數據清理, 視覺化工具，大學以上學歷，具備資料處理與報表開發經驗，具備 教育科技 領域經驗，熟悉相關商業邏輯",0
+cleaned_JD_Data_Analyst.csv,13,"資料分析師 (區塊鏈)，針對 區塊鏈 領域進行 交易數據分析，建立分析報告與儀表板。，Tableau, Power BI, 統計分析, 數據清理, 視覺化工具，大學以上學歷，具備資料處理與報表開發經驗，具備 區塊鏈 領域經驗，熟悉相關商業邏輯",0
+cleaned_JD_Data_Analyst.csv,14,"資料分析師 (觀光旅遊)，針對 觀光旅遊 領域進行 旅遊熱點分析，建立分析報告與儀表板。，Power BI, Excel, 統計分析, 數據清理, 視覺化工具，大學以上學歷，具備資料處理與報表開發經驗，具備 觀光旅遊 領域經驗，熟悉相關商業邏輯",0
+cleaned_JD_Data_Analyst.csv,15,"資料分析師 (電信業)，針對 電信業 領域進行 用戶分群，建立分析報告與儀表板。，Excel, Python, 統計分析, 數據清理, 視覺化工具，大學以上學歷，具備資料處理與報表開發經驗，具備 電信業 領域經驗，熟悉相關商業邏輯",0
+cleaned_JD_Data_Analyst.csv,16,"資料分析師 (人力資源)，針對 人力資源 領域進行 招聘效率追蹤，建立分析報告與儀表板。，Python, R, 統計分析, 數據清理, 視覺化工具，大學以上學歷，具備資料處理與報表開發經驗，具備 人力資源 領域經驗，熟悉相關商業邏輯",0
+cleaned_JD_Data_Analyst.csv,17,"資料分析師 (能源科技)，針對 能源科技 領域進行 能源使用預測，建立分析報告與儀表板。，R, SQL, 統計分析, 數據清理, 視覺化工具，大學以上學歷，具備資料處理與報表開發經驗，具備 能源科技 領域經驗，熟悉相關商業邏輯",0
+cleaned_JD_Data_Analyst.csv,18,"資料分析師 (非營利組織)，針對 非營利組織 領域進行 社會影響力分析，建立分析報告與儀表板。，SQL, Tableau, 統計分析, 數據清理, 視覺化工具，大學以上學歷，具備資料處理與報表開發經驗，具備 非營利組織 領域經驗，熟悉相關商業邏輯",0
+cleaned_JD_Data_Analyst.csv,19,"資料分析師 (AI 新創)，針對 AI 新創 領域進行 模型效能追蹤，建立分析報告與儀表板。，Tableau, Power BI, 統計分析, 數據清理, 視覺化工具，大學以上學歷，具備資料處理與報表開發經驗，具備 AI 新創 領域經驗，熟悉相關商業邏輯",0
+cleaned_JD_Data_Scientist.csv,0,"資料科學家（電商行為分析），負責分析平台用戶行為與購物路徑，提供行銷優化建議與精準推薦模型。，Python, SQL, pandas, scikit-learn, A/B Testing, 統計建模，資訊、統計、數學相關科系碩士以上，2年以上資料分析經驗，熟悉Google Analytics與Recommender System建模經驗",0
+cleaned_JD_Data_Scientist.csv,1,"資料科學家（製造業預測模型），建立設備維修與生產良率預測模型，提升工廠智慧化程度。，R, Python, TensorFlow, 時間序列分析, 機器學習，工程、數學相關系所碩士，具製造業資料分析經驗，具備工業4.0、SCADA 系統資料處理經驗",3
+cleaned_JD_Data_Scientist.csv,2,"資料科學家（金融風控模型），開發信用評分模型與風險偵測機制，協助金融機構降低壞帳風險。，Python, SQL, XGBoost, Logistic Regression, ROC/AUC，統計、財金或資工系碩士，3年以上模型建置經驗，熟悉Basel III規範與金融監理法規",1
+cleaned_JD_Data_Scientist.csv,3,"資料科學家（健康照護分析），分析病患資料與醫療紀錄，開發風險預測與診斷輔助模型。，Python, NLP, EHR資料處理, 機器學習, pandas，公衛、醫資、統計相關科系碩士以上，1年以上醫療資料分析經驗，了解FHIR規格與醫療影像處理",1
+cleaned_JD_Data_Scientist.csv,4,"資料科學家（物流優化），負責配送路徑最佳化與需求預測模型，提升營運效率。，Python, OR-Tools, 線性規劃, 時間序列, Tableau，工業工程或運籌學相關碩士，2年相關工作經驗，具備GIS分析經驗或物流業背景",3
+cleaned_JD_Data_Scientist.csv,5,"資料科學家（廣告科技），建構廣告點擊率預測與使用者分群模型，支援實時競價系統。，Python, Spark, LightGBM, Kafka, CTR模型，資工、統計相關碩士，3年以上資料工程或ML經驗，熟悉RTB與DSP/SSP流程",3
+cleaned_JD_Data_Scientist.csv,6,"資料科學家（零售庫存預測），建構商品銷售與庫存預測模型，協助採購與補貨決策。，Python, Prophet, pandas, SQL, 機器學習，商管、統計、工工背景，碩士以上，2年以上分析經驗，具ERP資料分析經驗",0
+cleaned_JD_Data_Scientist.csv,7,"資料科學家（社群平台分析），分析社群互動數據，建立使用者參與度模型與異常行為偵測。，Python, NetworkX, NLP, 社群網路分析, SQL，資訊或數據科學相關碩士，具社群資料實務經驗，具備Bot偵測或MLOps經驗",3
+cleaned_JD_Data_Scientist.csv,8,"資料科學家（能源負載預測），分析用電行為並預測尖峰負載，支援能源調度與碳排控管。，Python, 時間序列分析, sklearn, Keras, Tableau，電機、能源、統計相關碩士，1年以上建模經驗，熟悉智慧電網與碳交易制度",1
+cleaned_JD_Data_Scientist.csv,9,"資料科學家（AI客服自動化），建立客戶問題分類與推薦回應模型，支援智慧客服系統。，Python, Transformers, NLP, FastAPI, Git，資工、語言科技相關背景碩士，具Chatbot開發經驗，熟悉Hugging Face模型與Rasa框架",3
+cleaned_JD_Data_Scientist.csv,10,"資深資料科學家（1）（電商行為分析），負責負責深入分析並指導團隊進行平台用戶行為與購物路徑，提供行銷優化建議與精準推薦模型。，Python, SQL, pandas, scikit-learn, A/B Testing, 統計建模，資訊、統計、數學相關科系碩士或博士以上，2年以上資料分析經驗，帶領過跨部門合作專案者尤佳，熟悉Google Analytics與Recommender System建模經驗，有帶領團隊經驗者佳",0
+cleaned_JD_Data_Scientist.csv,11,"資深資料科學家（2）（製造業預測模型），負責建立設備維修與生產良率預測模型，提升工廠智慧化程度。，R, Python, TensorFlow, 時間序列分析, 機器學習，工程、數學相關系所碩士或博士，具製造業資料分析經驗，帶領過跨部門合作專案者尤佳，具備工業4.0、SCADA 系統資料處理經驗，有帶領團隊經驗者佳",3
+cleaned_JD_Data_Scientist.csv,12,"資深資料科學家（3）（金融風控模型），負責開發信用評分模型與風險偵測機制，協助金融機構降低壞帳風險。，Python, SQL, XGBoost, Logistic Regression, ROC/AUC，統計、財金或資工系碩士或博士，3年以上模型建置經驗，帶領過跨部門合作專案者尤佳，熟悉Basel III規範與金融監理法規，有帶領團隊經驗者佳",1
+cleaned_JD_Data_Scientist.csv,13,"資深資料科學家（4）（健康照護分析），負責深入分析並指導團隊進行病患資料與醫療紀錄，開發風險預測與診斷輔助模型。，Python, NLP, EHR資料處理, 機器學習, pandas，公衛、醫資、統計相關科系碩士或博士以上，1年以上醫療資料分析經驗，帶領過跨部門合作專案者尤佳，了解FHIR規格與醫療影像處理，有帶領團隊經驗者佳",1
+cleaned_JD_Data_Scientist.csv,14,"資深資料科學家（5）（物流優化），負責負責配送路徑最佳化與需求預測模型，提升營運效率。，Python, OR-Tools, 線性規劃, 時間序列, Tableau，工業工程或運籌學相關碩士或博士，2年相關工作經驗，帶領過跨部門合作專案者尤佳，具備GIS分析經驗或物流業背景，有帶領團隊經驗者佳",3
+cleaned_JD_Data_Scientist.csv,15,"資深資料科學家（6）（廣告科技），負責建構廣告點擊率預測與使用者分群模型，支援實時競價系統。，Python, Spark, LightGBM, Kafka, CTR模型，資工、統計相關碩士或博士，3年以上資料工程或ML經驗，帶領過跨部門合作專案者尤佳，熟悉RTB與DSP/SSP流程，有帶領團隊經驗者佳",3
+cleaned_JD_Data_Scientist.csv,16,"資深資料科學家（7）（零售庫存預測），負責建構商品銷售與庫存預測模型，協助採購與補貨決策。，Python, Prophet, pandas, SQL, 機器學習，商管、統計、工工背景，碩士或博士以上，2年以上分析經驗，帶領過跨部門合作專案者尤佳，具ERP資料分析經驗，有帶領團隊經驗者佳",0
+cleaned_JD_Data_Scientist.csv,17,"資深資料科學家（8）（社群平台分析），負責深入分析並指導團隊進行社群互動數據，建立使用者參與度模型與異常行為偵測。，Python, NetworkX, NLP, 社群網路分析, SQL，資訊或數據科學相關碩士或博士，具社群資料實務經驗，帶領過跨部門合作專案者尤佳，具備Bot偵測或MLOps經驗，有帶領團隊經驗者佳",3
+cleaned_JD_Data_Scientist.csv,18,"資深資料科學家（9）（能源負載預測），負責深入分析並指導團隊進行用電行為並預測尖峰負載，支援能源調度與碳排控管。，Python, 時間序列分析, sklearn, Keras, Tableau，電機、能源、統計相關碩士或博士，1年以上建模經驗，帶領過跨部門合作專案者尤佳，熟悉智慧電網與碳交易制度，有帶領團隊經驗者佳",1
+cleaned_JD_Data_Scientist.csv,19,"資深資料科學家（10）（AI客服自動化），負責建立客戶問題分類與推薦回應模型，支援智慧客服系統。，Python, Transformers, NLP, FastAPI, Git，資工、語言科技相關背景碩士或博士，具Chatbot開發經驗，帶領過跨部門合作專案者尤佳，熟悉Hugging Face模型與Rasa框架，有帶領團隊經驗者佳",3
+cleaned_JD_ML_Engineer.csv,0,"機器學習工程師（智慧製造），開發與部署製造流程中的異常偵測模型，優化生產流程並即時監控設備狀況。，Python, scikit-learn, PyTorch, OpenCV, Docker, Git，資工、電機、統計相關碩士，2年以上ML實作經驗，熟悉工業自動化協定與邊緣運算部署",3
+cleaned_JD_ML_Engineer.csv,1,"機器學習工程師（金融詐欺偵測），建構即時交易資料的詐欺行為偵測系統，與風控團隊合作設計風險模型。，Python, SQL, XGBoost, Kafka, MLflow，統計、資工、金融相關碩士，具金融資料分析經驗，了解PCI-DSS規範與大規模資料流架構",3
+cleaned_JD_ML_Engineer.csv,2,"機器學習工程師（語音辨識），設計語音辨識模型並優化其準確度，應用於智慧客服與語音助理系統。，Python, TensorFlow, Kaldi, ASR模型, Linux，語音處理、語言科技或資工碩士以上，具語音應用經驗，熟悉 end-to-end speech pipeline 開發",3
+cleaned_JD_ML_Engineer.csv,3,"機器學習工程師（零售推薦系統），負責建置個人化商品推薦模型與A/B測試實驗平台，提升用戶轉換率。，Python, PySpark, LightGBM, RecSys, Airflow，資工、統計、行銷科技相關科系碩士，2年以上推薦系統經驗，具備商品知識圖譜構建經驗",3
+cleaned_JD_ML_Engineer.csv,4,"機器學習工程師（醫療影像分析），開發醫療影像分類與分割模型，支援臨床診斷輔助系統。，Python, PyTorch, CNN, DICOM, FastAPI，生醫、電機、資工相關碩士以上，具深度學習影像經驗，熟悉醫療法規與醫療AI產品開發流程",1
+cleaned_JD_ML_Engineer.csv,5,"機器學習工程師（自動駕駛感知），建構車用感測器資料處理與辨識模型，支援自動駕駛感知模組。，Python, C++, ROS, LiDAR, YOLO, 深度學習，電機、機械、資工系碩士，具車載系統經驗，熟悉Sensor Fusion與SLAM演算法",3
+cleaned_JD_ML_Engineer.csv,6,"機器學習工程師（AI客服NLP），開發語意理解與回答生成模型，強化AI客服回覆的準確度與人性化。，Python, Hugging Face, BERT, RNN, Transformers，語言科技、資訊相關科系碩士，具NLP開發經驗，熟悉Rasa或Dialogflow",3
+cleaned_JD_ML_Engineer.csv,7,"機器學習工程師（網路資安分析），應用機器學習於網路封包與系統日誌，偵測異常與潛在攻擊模式。，Python, Anomaly Detection, Scikit-learn, Log Parsing，資安、資工相關科系碩士，具系統監控經驗，具資安分析工具如ELK或Splunk操作經驗",3
+cleaned_JD_ML_Engineer.csv,8,"機器學習工程師（智慧農業應用），開發農作物成長預測與病蟲害識別模型，支援智慧農場決策系統。，Python, Keras, IoT資料處理, Remote Sensing，農業、資訊、統計等科系碩士以上，1年以上ML經驗，熟悉GIS應用或農業影像資料標註經驗",1
+cleaned_JD_ML_Engineer.csv,9,"機器學習工程師（語意搜尋系統），建構語意搜尋與問答系統，整合向量資料庫與語言模型技術。，Python, FAISS, Sentence Transformers, Elasticsearch，資工、語言科技、AI相關科系碩士以上，具向量檢索經驗，熟悉RAG架構或語意索引技術",3
+cleaned_JD_ML_Engineer.csv,10,"資深機器學習工程師（1）（智慧製造），負責設計與領導團隊開發與部署製造流程中的異常偵測模型，優化生產流程並即時監控設備狀況。，Python, scikit-learn, PyTorch, OpenCV, Docker, Git，資工、電機、統計相關碩士或博士，2年以上ML實作經驗，具團隊帶領經驗者尤佳，熟悉工業自動化協定與邊緣運算部署，熟悉MLOps流程與跨團隊合作",1
+cleaned_JD_ML_Engineer.csv,11,"資深機器學習工程師（2）（金融詐欺偵測），負責建構即時交易資料的詐欺行為偵測系統，與風控團隊合作設計風險模型。，Python, SQL, XGBoost, Kafka, MLflow，統計、資工、金融相關碩士或博士，具金融資料分析經驗，具團隊帶領經驗者尤佳，了解PCI-DSS規範與大規模資料流架構，熟悉MLOps流程與跨團隊合作",3
+cleaned_JD_ML_Engineer.csv,12,"資深機器學習工程師（3）（語音辨識），負責設計語音辨識模型並優化其準確度，應用於智慧客服與語音助理系統。，Python, TensorFlow, Kaldi, ASR模型, Linux，語音處理、語言科技或資工碩士或博士以上，具語音應用經驗，具團隊帶領經驗者尤佳，熟悉 end-to-end speech pipeline 開發，熟悉MLOps流程與跨團隊合作",3
+cleaned_JD_ML_Engineer.csv,13,"資深機器學習工程師（4）（零售推薦系統），負責負責建置個人化商品推薦模型與A/B測試實驗平台，提升用戶轉換率。，Python, PySpark, LightGBM, RecSys, Airflow，資工、統計、行銷科技相關科系碩士或博士，2年以上推薦系統經驗，具團隊帶領經驗者尤佳，具備商品知識圖譜構建經驗，熟悉MLOps流程與跨團隊合作",3
+cleaned_JD_ML_Engineer.csv,14,"資深機器學習工程師（5）（醫療影像分析），負責設計與領導團隊開發醫療影像分類與分割模型，支援臨床診斷輔助系統。，Python, PyTorch, CNN, DICOM, FastAPI，生醫、電機、資工相關碩士或博士以上，具深度學習影像經驗，具團隊帶領經驗者尤佳，熟悉醫療法規與醫療AI產品開發流程，熟悉MLOps流程與跨團隊合作",1
+cleaned_JD_ML_Engineer.csv,15,"資深機器學習工程師（6）（自動駕駛感知），負責建構車用感測器資料處理與辨識模型，支援自動駕駛感知模組。，Python, C++, ROS, LiDAR, YOLO, 深度學習，電機、機械、資工系碩士或博士，具車載系統經驗，具團隊帶領經驗者尤佳，熟悉Sensor Fusion與SLAM演算法，熟悉MLOps流程與跨團隊合作",3
+cleaned_JD_ML_Engineer.csv,16,"資深機器學習工程師（7）（AI客服NLP），負責設計與領導團隊開發語意理解與回答生成模型，強化AI客服回覆的準確度與人性化。，Python, Hugging Face, BERT, RNN, Transformers，語言科技、資訊相關科系碩士或博士，具NLP開發經驗，具團隊帶領經驗者尤佳，熟悉Rasa或Dialogflow，熟悉MLOps流程與跨團隊合作",3
+cleaned_JD_ML_Engineer.csv,17,"資深機器學習工程師（8）（網路資安分析），負責應用機器學習於網路封包與系統日誌，偵測異常與潛在攻擊模式。，Python, Anomaly Detection, Scikit-learn, Log Parsing，資安、資工相關科系碩士或博士，具系統監控經驗，具團隊帶領經驗者尤佳，具資安分析工具如ELK或Splunk操作經驗，熟悉MLOps流程與跨團隊合作",3
+cleaned_JD_ML_Engineer.csv,18,"資深機器學習工程師（9）（智慧農業應用），負責設計與領導團隊開發農作物成長預測與病蟲害識別模型，支援智慧農場決策系統。，Python, Keras, IoT資料處理, Remote Sensing，農業、資訊、統計等科系碩士或博士以上，1年以上ML經驗，具團隊帶領經驗者尤佳，熟悉GIS應用或農業影像資料標註經驗，熟悉MLOps流程與跨團隊合作",1
+cleaned_JD_ML_Engineer.csv,19,"資深機器學習工程師（10）（語意搜尋系統），負責建構語意搜尋與問答系統，整合向量資料庫與語言模型技術。，Python, FAISS, Sentence Transformers, Elasticsearch，資工、語言科技、AI相關科系碩士或博士以上，具向量檢索經驗，具團隊帶領經驗者尤佳，熟悉RAG架構或語意索引技術，熟悉MLOps流程與跨團隊合作",3
+cleaned_JD_Product_Manager.csv,0,"產品經理 (電商平台)，負責電商平台產品規劃、跨部門協作、用戶體驗優化與新功能推動。，產品規劃, 用戶研究, Jira, Figma, SQL，大學以上學歷，具 2 年以上產品管理經驗，具備 UI/UX 設計背景或 A/B Test 實務經驗",4
+cleaned_JD_Product_Manager.csv,1,"資深產品經理 (金融科技)，規劃線上支付與金融服務流程，確保合規性與產品安全性。，Agile, Wireframing, Jira, API spec 撰寫, 數據分析，資訊、財金相關系所畢，3 年以上 PM 經驗，熟悉金融監理規範、具備支付產品規劃經驗",4
+cleaned_JD_Product_Manager.csv,2,"產品經理 (AI 解決方案)，負責 AI 模型產品化流程與平台功能設計，與 ML 團隊協作。，產品需求分析, ML 概念, API 整合, Python 基礎, Notion，資工、統計、資管系畢，具 AI 領域 PM 經驗佳，具備 MLOps 或模型部署經驗",3
+cleaned_JD_Product_Manager.csv,3,"產品經理 (SaaS 系統)，負責多租戶 SaaS 架構平台的產品生命周期管理。，User Story 撰寫, SaaS 商業模式, SQL, Trello, GTM 策略，資訊或商管相關學系，大學以上，具備 SaaS 新創工作經驗",4
+cleaned_JD_Product_Manager.csv,4,"產品經理 (醫療資訊平台)，協助醫療院所系統平台規劃與需求管理，促進醫病溝通效率。，需求訪談, HL7 基礎, 系統整合, 文檔管理, PowerPoint，醫資、公衛、資管背景，2 年以上產品規劃經驗，熟悉醫療資訊系統架構或有相關證照",4
+cleaned_JD_Product_Manager.csv,5,"產品經理 (物流科技)，管理物流系統與配送平台的產品設計與優化。，流程設計, ERP/OMS 知識, 數據分析, Scrum, Axure，大學以上，工業工程或資管系尤佳，有物流或倉儲業產品經驗",4
+cleaned_JD_Product_Manager.csv,6,"產品經理 (人力資源平台)，設計 HR Tech 工具，如招募系統與員工績效模組。，用戶訪談, Figma, SQL, Jira, 產品策略規劃，心理、人資或商管背景佳，具 2 年以上產品經驗，具備 HR 或 ATS 系統操作經驗",4
+cleaned_JD_Product_Manager.csv,7,"產品經理 (教育科技)，規劃線上學習平台功能，提升學習體驗與教學效率。，產品地圖設計, 互動設計, A/B Test, Notion, Miro，教育、傳播或資管科系畢業，參與過 LMS 平台開發、具教學背景",4
+cleaned_JD_Product_Manager.csv,8,"產品經理 (旅遊平台)，負責旅遊平台訂單、行程與票券功能設計，提升轉換率。，KPI 指標設定, Funnel 分析, Google Analytics, 介面設計概念，商管或資管科系，大學以上，熟悉 OTA 平台操作流程",4
+cleaned_JD_Product_Manager.csv,9,"產品經理 (社群平台)，設計社群互動功能，分析用戶行為並優化內容呈現邏輯。，用戶分析, Wireframe 設計, Python 基礎, Firebase，資工、設計或行銷背景，具數位產品操作經驗，有社群經營或內容平台設計經驗",4
+cleaned_JD_Product_Manager.csv,10,"產品經理 (區塊鏈)，針對 區塊鏈 領域核心功能進行產品設計與跨部門溝通。，用戶研究, Scrum, Figma，大學以上學歷，具產品設計與專案管理經驗，熟悉 區塊鏈 業務邏輯與技術生態",4
+cleaned_JD_Product_Manager.csv,11,"產品經理 (房地產科技)，針對 房地產科技 領域核心功能進行產品設計與跨部門溝通。，技術規格撰寫, API 設計, Jira，大學以上學歷，具產品設計與專案管理經驗，熟悉 房地產科技 業務邏輯與技術生態",4
+cleaned_JD_Product_Manager.csv,12,"產品經理 (資安平台)，針對 資安平台 領域核心功能進行產品設計與跨部門溝通。，跨部門溝通, 敏捷開發, Notion，大學以上學歷，具產品設計與專案管理經驗，熟悉 資安平台 業務邏輯與技術生態",4
+cleaned_JD_Product_Manager.csv,13,"產品經理 (智慧製造)，針對 智慧製造 領域核心功能進行產品設計與跨部門溝通。，BI 工具操作, Data Mapping, SQL，大學以上學歷，具產品設計與專案管理經驗，熟悉 智慧製造 業務邏輯與技術生態",4
+cleaned_JD_Product_Manager.csv,14,"產品經理 (能源管理)，針對 能源管理 領域核心功能進行產品設計與跨部門溝通。，Dashboard 設計, 數據驅動策略, Python，大學以上學歷，具產品設計與專案管理經驗，熟悉 能源管理 業務邏輯與技術生態",4
+cleaned_JD_Product_Manager.csv,15,"產品經理 (農業科技)，針對 農業科技 領域核心功能進行產品設計與跨部門溝通。，UX 設計概念, Wireframe, Google Analytics，大學以上學歷，具產品設計與專案管理經驗，熟悉 農業科技 業務邏輯與技術生態",4
+cleaned_JD_Product_Manager.csv,16,"產品經理 (非營利組織)，針對 非營利組織 領域核心功能進行產品設計與跨部門溝通。，KPI 規劃, 需求整理, Figma，大學以上學歷，具產品設計與專案管理經驗，熟悉 非營利組織 業務邏輯與技術生態",4
+cleaned_JD_Product_Manager.csv,17,"產品經理 (AR/VR 應用)，針對 AR/VR 應用 領域核心功能進行產品設計與跨部門溝通。，互動設計, 設備整合思維, Jira，大學以上學歷，具產品設計與專案管理經驗，熟悉 AR/VR 應用 業務邏輯與技術生態",4
+cleaned_JD_Product_Manager.csv,18,"產品經理 (數位銀行)，針對 數位銀行 領域核心功能進行產品設計與跨部門溝通。，法遵知識, 金流整合, Notion，大學以上學歷，具產品設計與專案管理經驗，熟悉 數位銀行 業務邏輯與技術生態",4
+cleaned_JD_Product_Manager.csv,19,"產品經理 (開源軟體平台)，針對 開源軟體平台 領域核心功能進行產品設計與跨部門溝通。，開源貢獻經驗, Dev 社群經營, SQL，大學以上學歷，具產品設計與專案管理經驗，熟悉 開源軟體平台 業務邏輯與技術生態",4

@@ -1,0 +1,42 @@
+all_Resume_clustered:
+- TF-IDF 矩陣形狀: (100, 373)
+- Silhouette Score: 0.030467905062873335
+
+- Sentence-BERT embeddings shape: (100, 512)
+- Silhouette Score: 0.07829108
+
+all_JDs_clustered: 
+- TF-IDF 矩陣形狀: (100, 500)
+- Silhouette Score: 0.04095422712795073
+
+- Sentence-BERT embeddings shape: (100, 512)
+- Silhouette Score: 0.11417069
+
+一、數據解讀
+1. 履歷資料 (Resume)
+1) TF-IDF
+1)-1 TF-IDF 矩陣形狀 (100, 373)
+- 意味著從100份履歷中提取了373個特徵（詞彙）。
+1)-2 TF-IDF Silhouette Score: 0.0305
+- 這個得分非常低，代表以TF-IDF表示的履歷在KMeans聚類時，群組內的相似度與群組間的差異性不夠明顯，聚類效果較差。
+2) Sentence-BERT
+2)-1Sentence-BERT embeddings shape (100, 512)
+- 每份履歷被轉換為512維的向量，這是基於預訓練模型產生的密集向量，更能捕捉語意信息。
+2)-2 Sentence-BERT Silhouette Score: 0.0783
+- 得分比TF-IDF略高，表明使用Sentence-BERT得到的向量在分群時有較好的內部相似性和外部分離性，但整體仍屬於較低水平，可能需要調整聚類參數或進行更多資料預處理來提升效果。
+
+2. JD資料 (Job Descriptions)
+1. TF-IDF
+1)-1 TF-IDF 矩陣形狀 (100, 500)
+- 表示從100份JD中提取了500個特徵，詞彙數較多，反映出JD描述可能較豐富或多樣。
+1)-2 TF-IDF Silhouette Score: 0.0410
+- 略高於履歷，但仍顯示出聚類品質一般，分群邊界不明顯。
+2. Sentence-BERT
+2)-1 Sentence-BERT embeddings shape (100, 512)
+- 同樣，每份JD被轉為512維向量，這樣的向量能更好捕捉文本的語意。
+2)-2 Sentence-BERT Silhouette Score: 0.1142
+- 較TF-IDF有顯著提升，表示用Sentence-BERT表示的JD在聚類時有較好的區分效果，但仍有提升空間。
+
+# 小結
+1. 比較結果：對於履歷和JD資料，Sentence-BERT的向量表示均能提供較高的Silhouette Score，相較於TF-IDF，顯示出更好的聚類品質。
+2. 意義：這意味著Sentence-BERT能更有效地捕捉文本的語意，產生更有意義的分群，這對後續匹配和推薦系統非常有幫助。

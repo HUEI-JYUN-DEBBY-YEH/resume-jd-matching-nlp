@@ -1,0 +1,101 @@
+﻿source_file,id,text_for_NLP,cluster
+cleaned_fake_backend_engineer_resumes.csv,0,"後端工程師，C#, .NET Core, SQL Server, Azure Functions, ElasticSearch，設計訂單處理與庫存管理 API，提高資料一致性與可靠性。；導入 Redis 快取機制，改善商品查詢延遲問題。，博士，國立成功大學統計學系，Azure Data Scientist Associate, MOS Excel Expert",2
+cleaned_fake_backend_engineer_resumes.csv,1,"後端工程師，Python, Django, PostgreSQL, Docker, Redis，整合課程與登入系統，提供 OAuth 第三方驗證機制。；建構線上測驗與成績查詢後端 API，穩定支援千人同時使用。，碩士，國立清華大學資訊工程學系，TQC+ 資料分析",2
+cleaned_fake_backend_engineer_resumes.csv,2,"後端工程師，Golang, Gin, gRPC, Kafka, Cassandra，開發後端服務處理醫療影像上傳與儲存，支援大規模醫院系統。；整合醫療資料庫與病歷系統，提升跨部門資料存取效率。，博士，國立清華大學電機工程學系，統計學會 SAS 證照",2
+cleaned_fake_backend_engineer_resumes.csv,3,"後端工程師，Python, Django, PostgreSQL, Docker, Redis，建構線上測驗與成績查詢後端 API，穩定支援千人同時使用。；整合課程與登入系統，提供 OAuth 第三方驗證機制。，博士，國立交通大學電機工程學系，統計學會 SAS 證照, Azure Data Scientist Associate",2
+cleaned_fake_backend_engineer_resumes.csv,4,"後端工程師，Golang, Gin, gRPC, Kafka, Cassandra，開發高併發後端架構，支援百萬級使用者請求。；建置微服務架構與 CI/CD 流程，提升部署與維護效率。，學士，國立中興大學資訊工程學系，AWS Certified Data Analytics",2
+cleaned_fake_backend_engineer_resumes.csv,5,"後端工程師，Node.js, Express, MongoDB, AWS EC2, Jest，開發 IoT 資料蒐集後端，穩定處理每秒上千筆設備訊息。；建立生產排程管理系統後端服務，支援多廠區協同作業。，學士，國立台灣大學應用數學系，",2
+cleaned_fake_backend_engineer_resumes.csv,6,"後端工程師，Golang, Gin, gRPC, Kafka, Cassandra，開發 API Gateway 管理外部與內部資料流向。；建置電信用戶後台服務平台，整合帳務與客服模組。，學士，國立台灣大學電機工程學系，TQC+ 資料分析",2
+cleaned_fake_backend_engineer_resumes.csv,7,"後端工程師，Node.js, Express, MongoDB, AWS EC2, Jest，導入 Redis 快取機制，改善商品查詢延遲問題。；設計訂單處理與庫存管理 API，提高資料一致性與可靠性。，博士，國立中興大學工業工程學系，",2
+cleaned_fake_backend_engineer_resumes.csv,8,"後端工程師，Java, Spring Boot, MySQL, Kubernetes, RabbitMQ，導入 Redis 快取機制，改善商品查詢延遲問題。；設計訂單處理與庫存管理 API，提高資料一致性與可靠性。，博士，國立中央大學工業工程學系，",2
+cleaned_fake_backend_engineer_resumes.csv,9,"後端工程師，C#, .NET Core, SQL Server, Azure Functions, ElasticSearch，設計即時車輛追蹤後端服務，整合 GPS 與地圖 API。；開發票價查詢與訂票系統後端服務，提升乘客體驗。，博士，國立中央大學資訊工程學系，Google Professional Data Engineer",2
+cleaned_fake_backend_engineer_resumes.csv,10,"後端工程師，Python, Django, PostgreSQL, Docker, Redis，開發 IoT 資料蒐集後端，穩定處理每秒上千筆設備訊息。；建立生產排程管理系統後端服務，支援多廠區協同作業。，學士，國立交通大學資訊工程學系，Azure Data Scientist Associate",2
+cleaned_fake_backend_engineer_resumes.csv,11,"後端工程師，PHP, Laravel, MariaDB, Nginx, CI/CD，建置微服務架構與 CI/CD 流程，提升部署與維護效率。；開發高併發後端架構，支援百萬級使用者請求。，博士，國立中山大學統計學系，MOS Excel Expert, Python 程式設計認證",2
+cleaned_fake_backend_engineer_resumes.csv,12,"後端工程師，Python, Django, PostgreSQL, Docker, Redis，開發後端服務處理醫療影像上傳與儲存，支援大規模醫院系統。；整合醫療資料庫與病歷系統，提升跨部門資料存取效率。，碩士，國立中央大學工業工程學系，Coursera: Deep Learning Specialization, Python 程式設計認證",2
+cleaned_fake_backend_engineer_resumes.csv,13,"後端工程師，Java, Spring Boot, MySQL, Kubernetes, RabbitMQ，建構線上測驗與成績查詢後端 API，穩定支援千人同時使用。；整合課程與登入系統，提供 OAuth 第三方驗證機制。，學士，國立交通大學電機工程學系，",2
+cleaned_fake_backend_engineer_resumes.csv,14,"後端工程師，Golang, Gin, gRPC, Kafka, Cassandra，導入 Redis 快取機制，改善商品查詢延遲問題。；設計訂單處理與庫存管理 API，提高資料一致性與可靠性。，博士，國立清華大學工業工程學系，Azure Data Scientist Associate, AWS Certified Data Analytics",2
+cleaned_fake_backend_engineer_resumes.csv,15,"後端工程師，C#, .NET Core, SQL Server, Azure Functions, ElasticSearch，開發 IoT 資料蒐集後端，穩定處理每秒上千筆設備訊息。；建立生產排程管理系統後端服務，支援多廠區協同作業。，碩士，國立中央大學財務金融學系，TQC+ 資料分析, Python 程式設計認證",2
+cleaned_fake_backend_engineer_resumes.csv,16,"後端工程師，Node.js, Express, MongoDB, AWS EC2, Jest，開發 API Gateway 管理外部與內部資料流向。；建置電信用戶後台服務平台，整合帳務與客服模組。，博士，國立中山大學應用數學系，TQC+ 資料分析",2
+cleaned_fake_backend_engineer_resumes.csv,17,"後端工程師，Java, Spring Boot, MySQL, Kubernetes, RabbitMQ，開發高併發後端架構，支援百萬級使用者請求。；建置微服務架構與 CI/CD 流程，提升部署與維護效率。，碩士，國立清華大學應用數學系，Coursera: Deep Learning Specialization, Azure Data Scientist Associate",2
+cleaned_fake_backend_engineer_resumes.csv,18,"後端工程師，Golang, Gin, gRPC, Kafka, Cassandra，開發 IoT 資料蒐集後端，穩定處理每秒上千筆設備訊息。；建立生產排程管理系統後端服務，支援多廠區協同作業。，學士，國立中央大學工業工程學系，MOS Excel Expert",2
+cleaned_fake_backend_engineer_resumes.csv,19,"後端工程師，Java, Spring Boot, MySQL, Kubernetes, RabbitMQ，開發高併發後端架構，支援百萬級使用者請求。；建置微服務架構與 CI/CD 流程，提升部署與維護效率。，碩士，國立中央大學資訊工程學系，",2
+cleaned_fake_data_analyst_resumes.csv,0,"資料分析師，Python, Pandas, Seaborn, PostgreSQL, Google Data Studio，分析線上銷售數據，調整商品定價與庫存策略。；建立會員分群模型，提升行銷活動回應率。，學士，國立中山大學公共衛生學系，",3
+cleaned_fake_data_analyst_resumes.csv,1,"資料分析師，Python, Pandas, Seaborn, PostgreSQL, Google Data Studio，設計 A/B 測試結果報表，支援產品決策。；分析產品使用行為數據，提升功能優化依據。，博士，國立成功大學應用數學系，Python 程式設計認證",3
+cleaned_fake_data_analyst_resumes.csv,2,"資料分析師，SQL, Metabase, Excel, Snowflake, Python，建立會員分群模型，提升行銷活動回應率。；分析線上銷售數據，調整商品定價與庫存策略。，碩士，國立交通大學應用數學系，Coursera: Deep Learning Specialization, Google Professional Data Engineer",3
+cleaned_fake_data_analyst_resumes.csv,3,"資料分析師，SQL, Metabase, Excel, Snowflake, Python，建構財務分析儀表板，協助投資團隊快速掌握市場趨勢。；分析信用卡使用行為，挖掘潛在詐欺風險客戶。，碩士，國立台灣大學電機工程學系，",0
+cleaned_fake_data_analyst_resumes.csv,4,"資料分析師，SQL, Tableau, Excel, Python, Power BI，分析信用卡使用行為，挖掘潛在詐欺風險客戶。；建構財務分析儀表板，協助投資團隊快速掌握市場趨勢。，碩士，國立中山大學財務金融學系，TQC+ 資料分析",0
+cleaned_fake_data_analyst_resumes.csv,5,"資料分析師，SQL, Metabase, Excel, Snowflake, Python，整合病患就診與用藥紀錄，協助醫師制定臨床指引。；分析健檢數據，預測高風險族群並優化預防保健方案。，碩士，國立清華大學應用數學系，Google Professional Data Engineer",0
+cleaned_fake_data_analyst_resumes.csv,6,"資料分析師，SQL, Metabase, Excel, Snowflake, Python，分析用戶通話與流量資料，提供分群與資費建議模型。；追蹤客服工單處理時間與滿意度，優化服務流程。，博士，國立政治大學資訊工程學系，",0
+cleaned_fake_data_analyst_resumes.csv,7,"資料分析師，Excel, Power BI, DAX, SQL Server, ETL，結合氣候與路況資料，預測運輸準點率。；分析乘車模式與尖峰時段，優化班次安排。，碩士，國立中山大學統計學系，Python 程式設計認證, MOS Excel Expert",0
+cleaned_fake_data_analyst_resumes.csv,8,"資料分析師，Python, Superset, Airflow, MongoDB, Pandas，建構財務分析儀表板，協助投資團隊快速掌握市場趨勢。；分析信用卡使用行為，挖掘潛在詐欺風險客戶。，學士，國立中山大學公共衛生學系，",0
+cleaned_fake_data_analyst_resumes.csv,9,"資料分析師，R, ggplot2, Shiny, MySQL, Excel，分析產線良率數據，找出生產異常關鍵因子。；建立每日 KPI 儀表板，支援現場即時決策。，博士，國立清華大學電機工程學系，Google Professional Data Engineer, 統計學會 SAS 證照",0
+cleaned_fake_data_analyst_resumes.csv,10,"資料分析師，R, Tidyverse, Plotly, Redshift, Excel，分析健檢數據，預測高風險族群並優化預防保健方案。；整合病患就診與用藥紀錄，協助醫師制定臨床指引。，博士，國立中山大學公共衛生學系，",0
+cleaned_fake_data_analyst_resumes.csv,11,"資料分析師，Excel, Power BI, DAX, SQL Server, ETL，設計 A/B 測試結果報表，支援產品決策。；分析產品使用行為數據，提升功能優化依據。，碩士，國立成功大學公共衛生學系，Coursera: Deep Learning Specialization",4
+cleaned_fake_data_analyst_resumes.csv,12,"資料分析師，Python, Superset, Airflow, MongoDB, Pandas，追蹤客服工單處理時間與滿意度，優化服務流程。；分析用戶通話與流量資料，提供分群與資費建議模型。，碩士，國立中興大學應用數學系，MOS Excel Expert",0
+cleaned_fake_data_analyst_resumes.csv,13,"資料分析師，Excel, Power BI, DAX, SQL Server, ETL，建構財務分析儀表板，協助投資團隊快速掌握市場趨勢。；分析信用卡使用行為，挖掘潛在詐欺風險客戶。，博士，國立清華大學應用數學系，MOS Excel Expert, AWS Certified Data Analytics",0
+cleaned_fake_data_analyst_resumes.csv,14,"資料分析師，R, ggplot2, Shiny, MySQL, Excel，整合病患就診與用藥紀錄，協助醫師制定臨床指引。；分析健檢數據，預測高風險族群並優化預防保健方案。，碩士，國立清華大學資訊工程學系，",0
+cleaned_fake_data_analyst_resumes.csv,15,"資料分析師，Python, Matplotlib, Scikit-learn, Looker, BigQuery，設計 A/B 測試結果報表，支援產品決策。；分析產品使用行為數據，提升功能優化依據。，博士，國立清華大學應用數學系，TQC+ 資料分析",3
+cleaned_fake_data_analyst_resumes.csv,16,"資料分析師，Excel, Power BI, DAX, SQL Server, ETL，分析學生學習平台使用數據，改善課程結構與介面。；追蹤教師與學生互動情形，提升教學參與度。，博士，國立政治大學應用數學系，TQC+ 資料分析, 統計學會 SAS 證照",0
+cleaned_fake_data_analyst_resumes.csv,17,"資料分析師，R, Tidyverse, Plotly, Redshift, Excel，追蹤客服工單處理時間與滿意度，優化服務流程。；分析用戶通話與流量資料，提供分群與資費建議模型。，博士，國立成功大學資訊工程學系，",0
+cleaned_fake_data_analyst_resumes.csv,18,"資料分析師，SQL, Metabase, Excel, Snowflake, Python，設計 A/B 測試結果報表，支援產品決策。；分析產品使用行為數據，提升功能優化依據。，學士，國立台灣大學公共衛生學系，TQC+ 資料分析",4
+cleaned_fake_data_analyst_resumes.csv,19,"資料分析師，Python, Pandas, Seaborn, PostgreSQL, Google Data Studio，建構財務分析儀表板，協助投資團隊快速掌握市場趨勢。；分析信用卡使用行為，挖掘潛在詐欺風險客戶。，學士，國立交通大學應用數學系，",0
+cleaned_fake_data_scientist_resumes.csv,0,"資料科學家，Python, SQL, Tableau, Pandas, Scikit-learn，建立教師績效評估模型協助學校資源分配。；分析學生學習行為資料，提升線上學習平台互動率。，博士，國立中央大學應用數學系，",3
+cleaned_fake_data_scientist_resumes.csv,1,"資料科學家，Python, BigQuery, Vertex AI, Kubernetes, GCP，分析用戶通話與數據使用行為以預測用戶流失。；開發自動化客服文字分析模型降低客服回覆時間。，學士，國立政治大學公共衛生學系，TQC+ 資料分析, 統計學會 SAS 證照",3
+cleaned_fake_data_scientist_resumes.csv,2,"資料科學家，Python, BigQuery, Vertex AI, Kubernetes, GCP，建構多維數據儀表板，提供管理決策依據。；開發客戶行為預測模型以提升使用者留存率。，學士，國立台灣大學財務金融學系，Python 程式設計認證, TQC+ 資料分析",3
+cleaned_fake_data_scientist_resumes.csv,3,"資料科學家，Python, TensorFlow, Keras, OpenCV, Docker，建構多維數據儀表板，提供管理決策依據。；開發客戶行為預測模型以提升使用者留存率。，碩士，國立中央大學應用數學系，MOS Excel Expert, Azure Data Scientist Associate",3
+cleaned_fake_data_scientist_resumes.csv,4,"資料科學家，R, PostgreSQL, Dplyr, Tidyverse, XGBoost，建立信貸違約預測模型，有效提升風險控管效率。；分析客戶投資行為，協助制定個人化推薦策略。，博士，國立清華大學統計學系，",3
+cleaned_fake_data_scientist_resumes.csv,5,"資料科學家，R, PostgreSQL, Dplyr, Tidyverse, XGBoost，建立信貸違約預測模型，有效提升風險控管效率。；分析客戶投資行為，協助制定個人化推薦策略。，碩士，國立政治大學資訊工程學系，",3
+cleaned_fake_data_scientist_resumes.csv,6,"資料科學家，R, MySQL, ggplot2, Caret, Shiny，分析用戶通話與數據使用行為以預測用戶流失。；開發自動化客服文字分析模型降低客服回覆時間。，碩士，國立政治大學統計學系，",3
+cleaned_fake_data_scientist_resumes.csv,7,"資料科學家，R, PostgreSQL, Dplyr, Tidyverse, XGBoost，預測交通尖峰時段流量，改善派遣調度效率。；建構路況視覺化系統供政府單位即時決策。，碩士，國立交通大學公共衛生學系，統計學會 SAS 證照, Azure Data Scientist Associate",3
+cleaned_fake_data_scientist_resumes.csv,8,"資料科學家，Python, SQL, Tableau, Pandas, Scikit-learn，開發病患預約預測模型以優化診間資源配置。；利用機器學習輔助診斷糖尿病初期徵兆，準確率達90%。，學士，國立中央大學電機工程學系，",1
+cleaned_fake_data_scientist_resumes.csv,9,"資料科學家，Python, Spark, Hadoop, Airflow, Kafka，應用市場籌碼分析協助行銷部門制定促銷策略。；分析會員購買行為並建立推薦系統提升回購率。，碩士，國立清華大學應用數學系，Azure Data Scientist Associate, AWS Certified Data Analytics",3
+cleaned_fake_data_scientist_resumes.csv,10,"資料科學家，Python, TensorFlow, Keras, OpenCV, Docker，開發自動化客服文字分析模型降低客服回覆時間。；分析用戶通話與數據使用行為以預測用戶流失。，學士，國立台灣大學公共衛生學系，Google Professional Data Engineer, AWS Certified Data Analytics",3
+cleaned_fake_data_scientist_resumes.csv,11,"資料科學家，Python, SQL, Tableau, Pandas, Scikit-learn，建立教師績效評估模型協助學校資源分配。；分析學生學習行為資料，提升線上學習平台互動率。，博士，國立台灣大學公共衛生學系，Azure Data Scientist Associate",3
+cleaned_fake_data_scientist_resumes.csv,12,"資料科學家，Python, TensorFlow, Keras, OpenCV, Docker，利用機器學習輔助診斷糖尿病初期徵兆，準確率達90%。；開發病患預約預測模型以優化診間資源配置。，博士，國立中山大學電機工程學系，AWS Certified Data Analytics",1
+cleaned_fake_data_scientist_resumes.csv,13,"資料科學家，Python, Spark, Hadoop, Airflow, Kafka，開發自動化客服文字分析模型降低客服回覆時間。；分析用戶通話與數據使用行為以預測用戶流失。，碩士，國立中山大學工業工程學系，TQC+ 資料分析, MOS Excel Expert",3
+cleaned_fake_data_scientist_resumes.csv,14,"資料科學家，R, PostgreSQL, Dplyr, Tidyverse, XGBoost，預測交通尖峰時段流量，改善派遣調度效率。；建構路況視覺化系統供政府單位即時決策。，學士，國立台灣大學資訊工程學系，Python 程式設計認證",3
+cleaned_fake_data_scientist_resumes.csv,15,"資料科學家，Python, Spark, Hadoop, Airflow, Kafka，分析客戶投資行為，協助制定個人化推薦策略。；建立信貸違約預測模型，有效提升風險控管效率。，學士，國立中山大學工業工程學系，Azure Data Scientist Associate, 統計學會 SAS 證照",3
+cleaned_fake_data_scientist_resumes.csv,16,"資料科學家，Python, PyTorch, Transformers, NLTK, Hugging Face，利用機器學習輔助診斷糖尿病初期徵兆，準確率達90%。；開發病患預約預測模型以優化診間資源配置。，學士，國立台灣大學工業工程學系，",1
+cleaned_fake_data_scientist_resumes.csv,17,"資料科學家，R, PostgreSQL, Dplyr, Tidyverse, XGBoost，開發自動化客服文字分析模型降低客服回覆時間。；分析用戶通話與數據使用行為以預測用戶流失。，博士，國立交通大學公共衛生學系，Python 程式設計認證",3
+cleaned_fake_data_scientist_resumes.csv,18,"資料科學家，SQL, Power BI, Excel, Snowflake, Looker，建立教師績效評估模型協助學校資源分配。；分析學生學習行為資料，提升線上學習平台互動率。，學士，國立中央大學電機工程學系，",0
+cleaned_fake_data_scientist_resumes.csv,19,"資料科學家，Python, Spark, Hadoop, Airflow, Kafka，分析會員購買行為並建立推薦系統提升回購率。；應用市場籌碼分析協助行銷部門制定促銷策略。，碩士，國立成功大學公共衛生學系，Azure Data Scientist Associate",3
+cleaned_fake_ml_engineer_resumes.csv,0,"機器學習工程師，Python, XGBoost, Scikit-learn, Airflow, GCP Vertex AI，以 CNN 架構進行醫療影像分類，輔助放射科醫師診斷乳癌。；開發病患再入院預測模型，提供醫療決策參考依據。，博士，國立中山大學財務金融學系，Azure Data Scientist Associate, Google Professional Data Engineer",1
+cleaned_fake_ml_engineer_resumes.csv,1,"機器學習工程師，Python, TensorFlow, Keras, Docker, AWS SageMaker，使用 XGBoost 開發信用風險模型，有效提升預測精度至 92%。；整合 Kafka 與 Spark 實現即時詐欺交易偵測系統。，碩士，國立台灣大學電機工程學系，AWS Certified Data Analytics, Azure Data Scientist Associate",3
+cleaned_fake_ml_engineer_resumes.csv,2,"機器學習工程師，Python, XGBoost, Scikit-learn, Airflow, GCP Vertex AI，以 CNN 架構進行醫療影像分類，輔助放射科醫師診斷乳癌。；開發病患再入院預測模型，提供醫療決策參考依據。，碩士，國立中央大學統計學系，AWS Certified Data Analytics",1
+cleaned_fake_ml_engineer_resumes.csv,3,"機器學習工程師，Python, ONNX, OpenCV, TensorRT, CUDA，使用深度學習技術預測用戶流失率，提升留存策略成效。；整合用戶行為資料建立分類模型以預測升級意願。，博士，國立中央大學財務金融學系，",3
+cleaned_fake_ml_engineer_resumes.csv,4,"機器學習工程師，R, Caret, Plumber, Azure ML, DVC，訓練機器學習模型預測生產設備異常，減少非預期停機。；建立自動化瑕疵影像辨識系統，提升品檢效率。，碩士，國立台灣大學電機工程學系，統計學會 SAS 證照",3
+cleaned_fake_ml_engineer_resumes.csv,5,"機器學習工程師，Python, XGBoost, Scikit-learn, Airflow, GCP Vertex AI，開發智慧調度系統預測捷運車廂擁擠程度。；以時間序列模型預測交通流量並支援調度決策。，博士，國立中山大學資訊工程學系，",1
+cleaned_fake_ml_engineer_resumes.csv,6,"機器學習工程師，Python, LightGBM, Optuna, PostgreSQL, Docker Compose，整合用戶行為資料建立分類模型以預測升級意願。；使用深度學習技術預測用戶流失率，提升留存策略成效。，學士，國立交通大學工業工程學系，",3
+cleaned_fake_ml_engineer_resumes.csv,7,"機器學習工程師，Scala, Spark MLlib, Hadoop, Kafka, Airflow，整合用戶行為資料建立分類模型以預測升級意願。；使用深度學習技術預測用戶流失率，提升留存策略成效。，碩士，國立中興大學公共衛生學系，Python 程式設計認證",3
+cleaned_fake_ml_engineer_resumes.csv,8,"機器學習工程師，R, Caret, Plumber, Azure ML, DVC，訓練機器學習模型預測生產設備異常，減少非預期停機。；建立自動化瑕疵影像辨識系統，提升品檢效率。，博士，國立中山大學財務金融學系，統計學會 SAS 證照, Azure Data Scientist Associate",3
+cleaned_fake_ml_engineer_resumes.csv,9,"機器學習工程師，Python, TensorFlow, Keras, Docker, AWS SageMaker，利用 NLP 分析學生回饋問卷，挖掘潛在需求。；建立學習成效預測模型，協助教師調整課程設計。，博士，國立政治大學應用數學系，Azure Data Scientist Associate, MOS Excel Expert",3
+cleaned_fake_ml_engineer_resumes.csv,10,"機器學習工程師，Scala, Spark MLlib, Hadoop, Kafka, Airflow，開發 MLOps 管線整合 MLflow 與 GitHub Actions，提升部署效率。；部署端到端機器學習模型於雲端，實現自動化模型重訓流程。，學士，國立中山大學資訊工程學系，",3
+cleaned_fake_ml_engineer_resumes.csv,11,"機器學習工程師，Python, Transformers, Hugging Face, NLP, Flask，利用 NLP 分析學生回饋問卷，挖掘潛在需求。；建立學習成效預測模型，協助教師調整課程設計。，博士，國立中興大學公共衛生學系，MOS Excel Expert, Google Professional Data Engineer",3
+cleaned_fake_ml_engineer_resumes.csv,12,"機器學習工程師，Python, Transformers, Hugging Face, NLP, Flask，使用深度學習技術預測用戶流失率，提升留存策略成效。；整合用戶行為資料建立分類模型以預測升級意願。，碩士，國立中山大學工業工程學系，",3
+cleaned_fake_ml_engineer_resumes.csv,13,"機器學習工程師，Python, TensorFlow, Keras, Docker, AWS SageMaker，開發 MLOps 管線整合 MLflow 與 GitHub Actions，提升部署效率。；部署端到端機器學習模型於雲端，實現自動化模型重訓流程。，博士，國立交通大學應用數學系，MOS Excel Expert",3
+cleaned_fake_ml_engineer_resumes.csv,14,"機器學習工程師，Python, ONNX, OpenCV, TensorRT, CUDA，以時間序列模型預測交通流量並支援調度決策。；開發智慧調度系統預測捷運車廂擁擠程度。，博士，國立成功大學財務金融學系，",1
+cleaned_fake_ml_engineer_resumes.csv,15,"機器學習工程師，Python, LightGBM, Optuna, PostgreSQL, Docker Compose，建立學習成效預測模型，協助教師調整課程設計。；利用 NLP 分析學生回饋問卷，挖掘潛在需求。，碩士，國立台灣大學公共衛生學系，TQC+ 資料分析",3
+cleaned_fake_ml_engineer_resumes.csv,16,"機器學習工程師，Python, Transformers, Hugging Face, NLP, Flask，整合用戶行為資料建立分類模型以預測升級意願。；使用深度學習技術預測用戶流失率，提升留存策略成效。，碩士，國立交通大學資訊工程學系，Azure Data Scientist Associate, Coursera: Deep Learning Specialization",3
+cleaned_fake_ml_engineer_resumes.csv,17,"機器學習工程師，Python, TensorFlow, Keras, Docker, AWS SageMaker，建立學習成效預測模型，協助教師調整課程設計。；利用 NLP 分析學生回饋問卷，挖掘潛在需求。，學士，國立清華大學應用數學系，AWS Certified Data Analytics",3
+cleaned_fake_ml_engineer_resumes.csv,18,"機器學習工程師，Python, LightGBM, Optuna, PostgreSQL, Docker Compose，訓練機器學習模型預測生產設備異常，減少非預期停機。；建立自動化瑕疵影像辨識系統，提升品檢效率。，博士，國立政治大學工業工程學系，",3
+cleaned_fake_ml_engineer_resumes.csv,19,"機器學習工程師，Scala, Spark MLlib, Hadoop, Kafka, Airflow，建立自動化瑕疵影像辨識系統，提升品檢效率。；訓練機器學習模型預測生產設備異常，減少非預期停機。，博士，國立清華大學資訊工程學系，Google Professional Data Engineer",3
+cleaned_fake_product_manager_resumes.csv,0,"產品經理，跨部門溝通, PRD 撰寫, Jira, Confluence, GA4，主導線上開戶流程優化專案，將用戶註冊轉換率提升至 30%。；與工程與法遵單位合作，完成數位理財平台 MVP 上線。，碩士，國立中興大學應用數學系，",4
+cleaned_fake_product_manager_resumes.csv,1,"產品經理，KPI 設定, 用戶旅程分析, Firebase, User Story Mapping, Excel，設計行動帳單 APP 使用者旅程，提升月活用戶至百萬級。；建構行銷活動推播模組與數據追蹤機制，提升活動點擊率。，碩士，國立政治大學電機工程學系，Python 程式設計認證",4
+cleaned_fake_product_manager_resumes.csv,2,"產品經理，KPI 設定, 用戶旅程分析, Firebase, User Story Mapping, Excel，負責線上教學平台數據模組設計，協助教師追蹤學習進度。；規劃線上評量系統功能，提升作答完成率與穩定性。，博士，國立清華大學電機工程學系，Azure Data Scientist Associate, 統計學會 SAS 證照",4
+cleaned_fake_product_manager_resumes.csv,3,"產品經理，產品數據儀表板, GA 分析, Scrum, Python, Airtable，推動雲端掛號系統重構專案，整合多院區服務提升用戶滿意度。；規劃病患資料儀表板，協助醫師快速掌握就診記錄與風險指標。，碩士，國立中央大學財務金融學系，Google Professional Data Engineer, TQC+ 資料分析",4
+cleaned_fake_product_manager_resumes.csv,4,"產品經理，產品規劃, 需求訪談, 敏捷開發, Jira, Figma，帶領跨國遠端團隊進行 SaaS 產品開發與用戶回饋優化迭代。；重新設計 B2B 客製平台流程，縮短客戶導入時間 35%。，學士，國立中山大學工業工程學系，",4
+cleaned_fake_product_manager_resumes.csv,5,"產品經理，跨部門溝通, PRD 撰寫, Jira, Confluence, GA4，推動雲端掛號系統重構專案，整合多院區服務提升用戶滿意度。；規劃病患資料儀表板，協助醫師快速掌握就診記錄與風險指標。，學士，國立交通大學應用數學系，",4
+cleaned_fake_product_manager_resumes.csv,6,"產品經理，KPI 設定, 用戶旅程分析, Firebase, User Story Mapping, Excel，推動雲端掛號系統重構專案，整合多院區服務提升用戶滿意度。；規劃病患資料儀表板，協助醫師快速掌握就診記錄與風險指標。，學士，國立成功大學電機工程學系，AWS Certified Data Analytics, Coursera: Deep Learning Specialization",4
+cleaned_fake_product_manager_resumes.csv,7,"產品經理，市場分析, A/B 測試, UX 設計, SQL, Notion，建構行銷活動推播模組與數據追蹤機制，提升活動點擊率。；設計行動帳單 APP 使用者旅程，提升月活用戶至百萬級。，學士，國立交通大學應用數學系，",4
+cleaned_fake_product_manager_resumes.csv,8,"產品經理，跨部門溝通, PRD 撰寫, Jira, Confluence, GA4，負責 ERP 專案模組整合規劃，協助 IT 與產線團隊共構系統。；導入 MES 數據視覺化模組，提升生產管理效率 25%。，碩士，國立清華大學電機工程學系，MOS Excel Expert",4
+cleaned_fake_product_manager_resumes.csv,9,"產品經理，產品規劃, 需求訪談, 敏捷開發, Jira, Figma，規劃線上評量系統功能，提升作答完成率與穩定性。；負責線上教學平台數據模組設計，協助教師追蹤學習進度。，碩士，國立中興大學資訊工程學系，MOS Excel Expert, TQC+ 資料分析",4
+cleaned_fake_product_manager_resumes.csv,10,"產品經理，OKR 制定, MVP 驗證, SQL, Mixpanel, Figma，建構行銷活動推播模組與數據追蹤機制，提升活動點擊率。；設計行動帳單 APP 使用者旅程，提升月活用戶至百萬級。，學士，國立中山大學電機工程學系，統計學會 SAS 證照",4
+cleaned_fake_product_manager_resumes.csv,11,"產品經理，使用者研究, 流程設計, Power BI, Agile, ClickUp，打造票務查詢整合平台，將平均查詢時間減少 40%。；協助建置即時交通狀態通報系統，強化通勤族體驗。，博士，國立政治大學工業工程學系，MOS Excel Expert",4
+cleaned_fake_product_manager_resumes.csv,12,"產品經理，使用者研究, 流程設計, Power BI, Agile, ClickUp，與工程與法遵單位合作，完成數位理財平台 MVP 上線。；主導線上開戶流程優化專案，將用戶註冊轉換率提升至 30%。，博士，國立交通大學公共衛生學系，Azure Data Scientist Associate",4
+cleaned_fake_product_manager_resumes.csv,13,"產品經理，競品分析, 數據分析, Wireframe, Python, Tableau，重新設計 B2B 客製平台流程，縮短客戶導入時間 35%。；帶領跨國遠端團隊進行 SaaS 產品開發與用戶回饋優化迭代。，博士，國立中央大學統計學系，",4
+cleaned_fake_product_manager_resumes.csv,14,"產品經理，產品數據儀表板, GA 分析, Scrum, Python, Airtable，建構行銷活動推播模組與數據追蹤機制，提升活動點擊率。；設計行動帳單 APP 使用者旅程，提升月活用戶至百萬級。，碩士，國立政治大學財務金融學系，",4
+cleaned_fake_product_manager_resumes.csv,15,"產品經理，KPI 設定, 用戶旅程分析, Firebase, User Story Mapping, Excel，設計線上商城推薦系統流程並規劃後台管理介面。；整合會員點數系統與 CRM，提升回購率與顧客忠誠度。，博士，國立中央大學電機工程學系，TQC+ 資料分析",4
+cleaned_fake_product_manager_resumes.csv,16,"產品經理，OKR 制定, MVP 驗證, SQL, Mixpanel, Figma，規劃線上評量系統功能，提升作答完成率與穩定性。；負責線上教學平台數據模組設計，協助教師追蹤學習進度。，博士，國立交通大學資訊工程學系，TQC+ 資料分析",4
+cleaned_fake_product_manager_resumes.csv,17,"產品經理，產品規劃, 需求訪談, 敏捷開發, Jira, Figma，建構行銷活動推播模組與數據追蹤機制，提升活動點擊率。；設計行動帳單 APP 使用者旅程，提升月活用戶至百萬級。，學士，國立成功大學工業工程學系，統計學會 SAS 證照, Azure Data Scientist Associate",4
+cleaned_fake_product_manager_resumes.csv,18,"產品經理，使用者研究, 流程設計, Power BI, Agile, ClickUp，負責線上教學平台數據模組設計，協助教師追蹤學習進度。；規劃線上評量系統功能，提升作答完成率與穩定性。，學士，國立中興大學電機工程學系，AWS Certified Data Analytics",4
+cleaned_fake_product_manager_resumes.csv,19,"產品經理，跨部門溝通, PRD 撰寫, Jira, Confluence, GA4，規劃線上評量系統功能，提升作答完成率與穩定性。；負責線上教學平台數據模組設計，協助教師追蹤學習進度。，學士，國立政治大學財務金融學系，",4

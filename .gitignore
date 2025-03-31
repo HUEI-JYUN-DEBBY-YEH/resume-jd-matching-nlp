@@ -1,0 +1,8 @@
+models/
+*.spacy
+*.pt
+*.bin
+__pycache__/
+.env
+*.log
+.DS_Store
