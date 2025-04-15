@@ -1,3 +1,5 @@
+This project implements an NLP-based system to match resumes with job descriptions. By analyzing textual similarities and key term alignments, the model aims to streamline the recruitment process through automated candidate-job matching.
+
 # 📌 NLP Resume-JD Semantic Matching 專案成果展示
 
 ## 📘 專案簡介
