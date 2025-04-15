@@ -43,11 +43,11 @@ This project implements an NLP-based system to match resumes with job descriptio
 
 ## 📌 技術亮點摘要
 
-- 🔧 **SpaCy Transformer 微調 NER 模型**
-- 🧠 **SBERT 語意嵌入產生語句向量**
-- 📊 **KMeans 聚類評估語意結構品質**
-- 📈 **TF-IDF / BM25 / SBERT 三法匹配比較**
-- 💡 **具可解釋性的履歷推薦邏輯**
+- 🔧 **SpaCy Transformer 微調 NER 模型**  NER: spaCy transformer-based model to extract key fields
+- 🧠 **SBERT 語意嵌入產生語句向量**  SBERT: Word embeddings
+- 📊 **KMeans 聚類評估語意結構品質**  Unsupervised Clustering: KMeans for job-resume grouping
+- 📈 **TF-IDF / BM25 / SBERT 三法匹配比較**  Similarity Matching: Sentence-BERT, TF-IDF, and cosine similarity
+- 💡 **具可解釋性的履歷推薦邏輯** Output: Top-K ranked JD matches for each resume
 
 ---
 
@@ -68,3 +68,7 @@ This project implements an NLP-based system to match resumes with job descriptio
 
 ---
 作者：Debby Yeh｜專案完成日：2025年3月
+
+## 🔗 Related Links
+- 📝 [Medium post: Building a Resume-JD Semantic Matching System](https://medium.com/@debby.yeh1994)
+- 📂 [Notion Portfolio](https://mango-mapusaurus-5df.notion.site/Debby-Yeh-NLP-Application-Engineer-Portfolio-1ca5118474d2801caa58de564fb53e38?pvs=4)
