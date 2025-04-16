@@ -7,6 +7,12 @@ This project implements an NLP-based system to match resumes with job descriptio
 
 ---
 
+## 🔖 Why this project matters：
+This project simulates a real-world HR screening engine by matching resumes to job descriptions using transformer-based NER and semantic similarity.
+It demonstrates how NLP can reduce recruiter bias and improve talent discovery through transparent, skills-based alignment.
+
+---
+
 ## 📌 模型訓練成果摘要
 
 ### 🔹 JD NER 模型表現
