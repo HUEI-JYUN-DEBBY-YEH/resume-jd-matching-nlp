@@ -12,6 +12,11 @@ This project simulates a real-world HR screening engine by matching resumes to j
 It demonstrates how NLP can reduce recruiter bias and improve talent discovery through transparent, skills-based alignment.
 
 ---
+## 🧭 System Architecture
+
+![Architecture Diagram](./resume_jd_matching.png)
+
+--- 
 
 ## 📌 模型訓練成果摘要
 
