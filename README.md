@@ -9,13 +9,13 @@ Recruitment workflows often rely on manual screening of resumes and keyword-base
 ---
 
 ## 🧭 System Overview
-
 flowchart TD
     A[Input: Raw Resume + JD] --> B[NER Extraction (spaCy Transformer)]
     B --> C[Entity Standardization]
     C --> D[TF-IDF / SBERT Embedding]
     D --> E[Cosine Similarity Score]
     E --> F[Top-K Matching Output]
+
 ```
 ![Architecture Diagram](./resume_jd_matching.png)
 ---
