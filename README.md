@@ -10,7 +10,6 @@ Recruitment workflows often rely on manual screening of resumes and keyword-base
 
 ## 🧭 System Overview
 
-```mermaid
 flowchart TD
     A[Input: Raw Resume + JD] --> B[NER Extraction (spaCy Transformer)]
     B --> C[Entity Standardization]
