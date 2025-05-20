@@ -1,3 +1,5 @@
+This project was part of my journey toward building fair, human-centered AI for workplace transformation.
+
 # 📌 Resume–JD Semantic Matching (NLP-Based System)
 
 This project simulates an intelligent talent-matching engine using a combination of **Named Entity Recognition (NER)** and **semantic similarity** techniques. It supports extracting structured information from resumes and job descriptions (JDs) and computes relevance scores to rank top-matching candidates or positions.
